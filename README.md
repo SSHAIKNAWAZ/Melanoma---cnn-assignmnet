@@ -1,4 +1,4 @@
-- `**The model training may take time to train and hence you can use Google colab. but i have used the jupyter noteook because in google colab i was occuring some problem while running**`
+- `The model training may take time to train and hence you can use Google colab. but i have used the jupyter noteook because in google colab i was occuring some problem while running`
 
 
 # Melanoma-CNN-assignment
